@@ -6,9 +6,9 @@
 >
 >Date: 5/8/2020
 >
-> Github Repo: https://github.coecis.cornell.edu/jyf5/backend-final.git
+> Github Repo: https://github.com/winniechow0617/final-backend
 >
-> Docker: 
+> Public server IP: http://34.75.155.213/
 >
 > Project Overview: This application allows users to create recipes, as well as to add ingredients and reviews to the recipes.
 

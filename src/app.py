@@ -27,7 +27,7 @@ def failure_response(message, code=404):
 # your routes here
 @app.route('/')
 def hello_world():
-    print(Welcome!)
+    return "Hello World!", 200
 
 
 @app.route('/api/recipes/')  # GET all recipes
